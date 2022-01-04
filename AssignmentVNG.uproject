@@ -201,18 +201,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OodleData",
-			"Enabled": false
-		},
-		{
-			"Name": "OodleNetwork",
-			"Enabled": false
-		},
-		{
-			"Name": "TextureFormatOodle",
-			"Enabled": false
-		},
-		{
 			"Name": "OpenXRHandTracking",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
